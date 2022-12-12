@@ -1,6 +1,6 @@
 {
 "version":6,
-"adtype":2,
+"adtype":1,
 "boo":true,
 "openads":"ca-app-pub-3940256099942544/3419835294", 
 "banner":"ca-app-pub-3637943030260697/5266396905", 
