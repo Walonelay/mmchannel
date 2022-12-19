@@ -1,5 +1,5 @@
 {
-"version":7,
+"version":6,
 "adtype":1,
 "boo":true,
 "openads":"ca-app-pub-3940256099942544/3419835294", 
